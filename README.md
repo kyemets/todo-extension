@@ -18,6 +18,12 @@ Light Theme  | Dark Theme
 ![Light Theme](images/light.png?raw=true "Light Theme")  | ![Dark Theme](images/dark.png?raw=true "Dark Theme")
 
 
+## Demo
+
+|   |
+| :------:  |
+|  ![Video](demo/video_demo.gif "demo")| 
+
 
 ## Language Support
 
@@ -27,7 +33,12 @@ Light Theme  | Dark Theme
 |    DE    |    ✅    |
 |    RU    |    ✅    |
 
+
+
+
 ---
+
+
 
 Features
 - [ ] Support for light and dark mode. Varies depending on the color of the system
