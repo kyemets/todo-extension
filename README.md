@@ -1,4 +1,5 @@
-# Todo extension for google chrome based on [React](https://github.com/facebook/react) and [i18next](https://github.com/i18next/react-i18next)   
+# Todo extension for browsers
+## [React](https://github.com/facebook/react) and [i18next](https://github.com/i18next/react-i18next)   
 
 [Confetti](https://github.com/alampros/react-confetti) was also used in the development 
 ---
